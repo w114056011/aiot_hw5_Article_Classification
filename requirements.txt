@@ -1,0 +1,7 @@
+# AI vs Human 文章分類工具 - 相依套件
+
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
