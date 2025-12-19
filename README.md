@@ -2,6 +2,9 @@
 
 一個使用 Streamlit 建構的 AI 內容偵測工具，能夠分析文本並判斷其是否由 AI 生成。
 
+## 🔍Demo Site
+You can try the live application here:[https://5114056011-aiot-hw5.streamlit.app/](https://5114056011-aiot-hw5.streamlit.app/)
+
 ## 功能特色
 
 ### 1. 即時文本分析
